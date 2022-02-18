@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BQSwiftTool",
+        "repositoryURL": "git@github.com:beiqi/BQSwiftTool.git",
+        "state": {
+          "branch": "main",
+          "revision": "a71e0d104020d9af57ab48ba2f520946e4dace3a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
